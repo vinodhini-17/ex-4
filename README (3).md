@@ -46,8 +46,8 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name:Geethapriyan A S
-### Register Number: 212224230074
+### Name:vinodhinin k
+### Register Number: 212223230245
 
 ```python
 
